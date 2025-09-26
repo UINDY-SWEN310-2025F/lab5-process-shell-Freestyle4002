@@ -1,1 +1,2 @@
 put your answers here
+I liked version 1 because after you complete the code. It'll detect whether the process has failed or not. It gives out a message to see if it works. It takes the command line output one by one so if it catches a mistake then I can fix it.

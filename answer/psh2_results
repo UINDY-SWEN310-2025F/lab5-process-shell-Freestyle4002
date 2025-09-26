@@ -1,0 +1,32 @@
+Script started on 2025-09-26 14:19:28+00:00 [TERM="xterm" TTY="/dev/pts/1" COLUMNS="72" LINES="19"]
+[?2004hsh-5.1# exit./psh2
+[?2004lArg[0]?ls
+Arg[1]?-1
+Arg[2]?
+fork
+fork.c
+myps.sh
+psh1
+psh1.c
+psh2
+psh2.c
+psh2_results
+child exited with status 0, 0
+Arg[0]?df
+Arg[1]?_ -H
+Arg[2]?
+Filesystem      Size  Used Avail Use% Mounted on
+overlay         1.1T  2.4G  1.1T   1% /
+tmpfs            68M     0   68M   0% /dev
+shm              68M     0   68M   0% /dev/shm
+C:\             1.1T  133G  891G  13% /home/app
+/dev/sde        1.1T  2.4G  1.1T   1% /etc/hosts
+tmpfs           8.4G     0  8.4G   0% /proc/acpi
+tmpfs           8.4G     0  8.4G   0% /proc/scsi
+tmpfs           8.4G     0  8.4G   0% /sys/firmware
+child exited with status 0, 0
+Arg[0]?^C
+[?2004hsh-5.1# exit
+[?2004lexit
+
+Script done on 2025-09-26 14:19:57+00:00 [COMMAND_EXIT_CODE="130"]
